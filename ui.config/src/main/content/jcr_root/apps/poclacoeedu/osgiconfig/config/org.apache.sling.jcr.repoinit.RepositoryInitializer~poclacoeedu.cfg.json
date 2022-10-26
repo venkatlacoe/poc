@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/poclacoeedu",
+        "create path (nt:unstructured) /content/dam/poclacoeedu/jcr:content",
+        "set properties on /content/dam/poclacoeedu/jcr:content\n  set cq:conf{String} to /conf/poclacoeedu\n  set jcr:title{String} to \"PCOLACOE.EDU\"\nend"
+    ]
+}

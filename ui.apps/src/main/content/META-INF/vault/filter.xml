@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/poclacoeedu/clientlibs"/>
+    <filter root="/apps/poclacoeedu/components"/>
+    <filter root="/apps/poclacoeedu/i18n"/>
+</workspaceFilter>
